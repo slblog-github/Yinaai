@@ -1,5 +1,5 @@
 /** By Hajeekn **/
-@import url(https://cdn.jsdelivr.net/npm/fontawesome);
+@import url(https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css);
 body {
     cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/default.cur),
         default;
