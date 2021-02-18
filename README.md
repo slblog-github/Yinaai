@@ -1,2 +1,2 @@
-# Yinaai
-## A crumb tool that can beautify your website
+<strong> Yinaai </strong>
+## | A crumb tool that can beautify your website
