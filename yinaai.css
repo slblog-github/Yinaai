@@ -3106,4 +3106,6 @@ pre {
         rgba(7, 179, 155, 0.1) 86%,
         rgba(109, 186, 130, 0.1) 100%
       );
+      background-repeat: no-repeat;
+      background-size: cover;
 }
