@@ -1,6 +1,6 @@
 // Not IE
 var link = document.getElementsByTagName('head')[0],
-    cssURL = 'https://cdn.jsdelivr.net/npm/Yinaai/yinaai.min.css',
+    cssURL = 'https://cdn.jsdelivr.net/npm/yinaai/yinaai.min.css',
     linkTag = document.createElement('link');
  
     linkTag.id = 'Yinaai-style';
@@ -11,5 +11,5 @@ var link = document.getElementsByTagName('head')[0],
  
 link.appendChild(linkTag);
 // IE
-cssUrl = 'https://cdn.jsdelivr.net/npm/Yinaai/yinaai.min.css',
+cssUrl = 'https://cdn.jsdelivr.net/npm/yinaai/yinaai.min.css',
 document.createStyleSheet(cssURL);
